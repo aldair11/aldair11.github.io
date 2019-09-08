@@ -185,7 +185,7 @@ main section:nth-child(2) {
     margin: 0;
     float: left;
     padding: 0;
-    background: url('code-coding-connection-943095.jpg') no-repeat top center fixed #333; 
+    background: #111111; 
 }
 main section:nth-child(2) article:nth-child(1) {
     width: 80%;
